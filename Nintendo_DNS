@@ -1,0 +1,14 @@
+/ip firewall address-list add address=107.23.225.164 list=Nintendo_DNS
+/ip firewall address-list add address=2.22.146.106 list=Nintendo_DNS
+/ip firewall address-list add address=2.22.146.121 list=Nintendo_DNS
+/ip firewall address-list add address=34.195.83.103 list=Nintendo_DNS
+/ip firewall address-list add address=34.207.4.182 list=Nintendo_DNS
+/ip firewall address-list add address=52.1.222.131 list=Nintendo_DNS
+/ip firewall address-list add address=52.205.203.202 list=Nintendo_DNS
+/ip firewall address-list add address=52.70.215.251 list=Nintendo_DNS
+/ip firewall address-list add address=54.162.197.37 list=Nintendo_DNS
+/ip firewall address-list add address=54.164.159.145 list=Nintendo_DNS
+/ip firewall address-list add address=69.25.139.136 list=Nintendo_DNS
+/ip firewall address-list add address=72.246.144.100 list=Nintendo_DNS
+/ip firewall address-list add address=95.100.156.43 list=Nintendo_DNS
+/ip firewall address-list add address=95.100.156.57 list=Nintendo_DNS
