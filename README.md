@@ -1,0 +1,1 @@
+Comando para gerar listas no ChatGPT: faça um comando de importação para o mikrotik seguindo esse padrão: /ip firewall address-list add address=192.168.0.0/16 list=(nomedalista), substituindo o 192.168.0.0/16 por várias entradas de host: 
