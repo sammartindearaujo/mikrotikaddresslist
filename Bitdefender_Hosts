@@ -1,0 +1,15 @@
+/ip firewall address-list
+add address=cdn.bitdefender.net list=Bitdefender_Hosts
+add address=cloud.gravityzone.bitdefender.com list=Bitdefender_Hosts
+add address=cloud-ecs.gravityzone.bitdefender.com list=Bitdefender_Hosts
+add address=cloudgz.gravityzone.bitdefender.com list=Bitdefender_Hosts
+add address=cloudgz-ecs.gravityzone.bitdefender.com list=Bitdefender_Hosts
+add address=elb-iow-gcp.nimbus.bitdefender.net list=Bitdefender_Hosts
+add address=eu-lurker-input.gravityzone.bitdefender.com list=Bitdefender_Hosts
+add address=lv2.bitdefender.com list=Bitdefender_Hosts
+add address=mclb-gcp.nimbus.bitdefender.net list=Bitdefender_Hosts
+add address=nimbus.bitdefender.net list=Bitdefender_Hosts
+add address=update.cloud.2d585.cdn.bitdefender.net list=Bitdefender_Hosts
+add address=update-cloud.2d585.cdn.bitdefender.net list=Bitdefender_Hosts
+add address=upgrade.bitdefender.com list=Bitdefender_Hosts
+add address=us-lurker-input.gravityzone.bitdefender.com list=Bitdefender_Hosts
