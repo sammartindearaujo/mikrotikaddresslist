@@ -1,0 +1,464 @@
+/ip firewall address-list add address=a.ns.c10r.instagram.com list=Instagram_Hosts
+/ip firewall address-list add address=a.ns.cdninstagram.com list=Instagram_Hosts
+/ip firewall address-list add address=accountscenter.instagram.com list=Instagram_Hosts
+/ip firewall address-list add address=api.instagram.com list=Instagram_Hosts
+/ip firewall address-list add address=applink.instagram.com list=Instagram_Hosts
+/ip firewall address-list add address=b.i.instagram.com list=Instagram_Hosts
+/ip firewall address-list add address=b.ns.c10r.instagram.com list=Instagram_Hosts
+/ip firewall address-list add address=b.ns.cdninstagram.com list=Instagram_Hosts
+/ip firewall address-list add address=badges.instagram.com list=Instagram_Hosts
+/ip firewall address-list add address=business.instagram.com list=Instagram_Hosts
+/ip firewall address-list add address=c.ns.c10r.instagram.com list=Instagram_Hosts
+/ip firewall address-list add address=c.ns.cdninstagram.com list=Instagram_Hosts
+/ip firewall address-list add address=c10r.instagram.com list=Instagram_Hosts
+/ip firewall address-list add address=cdninstagram.com list=Instagram_Hosts
+/ip firewall address-list add address=d.ns.c10r.instagram.com list=Instagram_Hosts
+/ip firewall address-list add address=d.ns.cdninstagram.com list=Instagram_Hosts
+/ip firewall address-list add address=edge-chat.instagram.com list=Instagram_Hosts
+/ip firewall address-list add address=geo-p42.instagram.com list=Instagram_Hosts
+/ip firewall address-list add address=geo.instagram.com list=Instagram_Hosts
+/ip firewall address-list add address=graph.instagram.com list=Instagram_Hosts
+/ip firewall address-list add address=graphql.instagram.com list=Instagram_Hosts
+/ip firewall address-list add address=help.instagram.com list=Instagram_Hosts
+/ip firewall address-list add address=i.instagram.com list=Instagram_Hosts
+/ip firewall address-list add address=instagram.c10r.facebook.com list=Instagram_Hosts
+/ip firewall address-list add address=instagram.c10r.instagram.com list=Instagram_Hosts
+/ip firewall address-list add address=instagram.com list=Instagram_Hosts
+/ip firewall address-list add address=instagram.facc1-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.fadb1-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.fadb2-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.fadb3-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.faep14-2.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.faep20-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.faep25-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.faep6-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.faep8-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.faju16-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.faju19-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.faju4-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.fala2-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.fala4-2.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.famd3-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.famm11-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.fapa1-2.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.faqa1-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.faqa4-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.faqa5-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.faru1-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.faru2-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list
+add address=instagram.fasu10-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fasu9-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fath6-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fatl1-2.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.faux2-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fayt2-2.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fbcn7-3.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fbek1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fbel13-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fbel2-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fbey13-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fbfh16-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fbfh8-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fbgw41-4.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fbhd1-2.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fbhi3-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fbhx5-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fbhz1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fbhz2-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fbhz2-2.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fbhz8-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fbnu2-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fbog18-2.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fbom16-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fbom19-2.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fbom3-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fbom5-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fbsb16-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fbsb8-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fbsb8-2.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fbts3-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fbts6-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fcai1-2.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fcai20-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fcau18-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fcau24-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fcau7-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fcaw1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fcaw3-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fccm8-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fccs1-2.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fccs6-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fcdj1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fcfb2-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fcfc5-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fcgh14-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fcgh20-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fcgh21-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fcgh23-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fcgh28-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.fcgh3-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.fcgh4-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.fcgh5-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.fcgh6-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.fcgh6-2.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.fcgh7-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.fcgk27-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.fcgy2-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.fcjs3-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.fclo1-3.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.fcnq2-2.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.fcok10-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.fcor10-3.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.fcpq1-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.fcpq17-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.fcpv14-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.fcpv20-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.fcrq1-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.fcul2-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.fcuu1-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.fcxj4-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.fcyw4-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.fdel1-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.fdel1-5.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.fdel27-2.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.fdiy1-2.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.fdnk3-2.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.fdnz1-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.fdoh5-2.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.feau1-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.feoh3-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.fepa12-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.fesb1-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.fevn1-3.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.fewr1-5.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.fewr1-6.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.ffec13-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.ffec2-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.ffec3-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.ffec5-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.ffjr1-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.fflr3-2.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.ffma3-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.ffor1-3.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.ffor10-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.ffor11-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.ffor15-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.ffor2-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.ffor23-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list add address=instagram.ffor29-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list
+add address=instagram.ffor3-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.ffor7-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.ffra1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fgdl2-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fgdl8-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fgig10-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fgig12-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fgig14-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fgig19-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fgig4-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fgig5-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fgig6-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fgpo1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fgru11-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fgru13-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fgru16-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fgru17-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fgru6-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fgua1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fgua1-3.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fgua3-2.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fgvr3-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fgyd4-2.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fgyd8-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fgyn16-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fgyn20-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fgyn4-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fgyn4-2.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fhdd3-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fhel3-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fhfa1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fhou1-2.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fhrk1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fhrk2-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fhrk5-2.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fhyd11-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fhyd14-2.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fiev14-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fipn8-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fist13-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fist7-2.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fitp1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fixc3-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fixm4-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fjai1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fjdh1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fjdo1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fjdo1-2.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fjdo10-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fjdo12-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list
+add address=instagram.fjpa1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fjpa16-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fkgf1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fkhi3-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fkhi6-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fkin2-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fknu1-3.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.flhe3-2.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.flhr6-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.flim11-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.flim16-3.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.flim18-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.flio1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.flos2-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.flwo5-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fmad15-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fmad19-2.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fmad7-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fmcz3-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fmcz4-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fmec2-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fmed1-2.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fmex16-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fmex2-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fmex21-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fmgf8-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fmia1-2.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fmoc4-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fmvd3-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fmzt3-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fnap5-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fnog1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fods6-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fpac1-2.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fpac2-2.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fpcs1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fpll7-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fplm4-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fplu1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fplu24-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fplu35-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fplu9-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fpnk3-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fpnq13-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fpnq13-2.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fpnq6-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fpoa12-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fpoa33-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fpoa41-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fpoa5-1.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list
+add address=instagram.fpos1-2.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fpos3-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fpoz2-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fppy8-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fpra1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fpvh3-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fpvh6-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fpvr1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fqnv4-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fqnv6-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fraj3-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.frao1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.frao1-2.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.frbr3-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.frcu4-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.frec31-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.frec42-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.frec7-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.frec8-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.frec9-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fres2-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.frgl2-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fria2-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fria4-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.frix2-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fros8-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fruh6-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.frun2-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsah1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsap1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsap8-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsap9-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsaw1-12.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fscl12-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fscl13-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fscl19-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fscl20-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fscl21-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fscl26-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fscl28-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fscl30-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fscl4-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fscl5-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fscl9-2.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsdq2-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsdu1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsdu10-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsdu11-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsdu12-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsdu12-2.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list
+add address=instagram.fsdu13-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsdu15-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsdu16-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsdu2-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsdu2-2.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsdu20-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsdu23-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsdu24-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsdu28-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsdu29-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsdu3-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsdu33-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsdu35-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsdu35-2.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsdu37-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsdu4-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsdu5-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsdu6-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsdu7-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsdu8-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsdu8-2.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsdu9-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsjk3-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsju1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fslz4-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fslz8-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fssa10-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fssa12-2.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fssa2-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fssa20-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fssa25-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fssa3-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fssa9-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fssz1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fssz3-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsti4-2.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fstu1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fstu1-2.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fstu2-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fstu5-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsub2-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsub2-4.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsub5-2.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsub6-3.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsub6-4.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsub6-6.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsub6-7.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fsub8-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.ftas1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.ftas2-2.fna.fbcdn.net list=Instagram_Hosts
+/ip firewall address-list
+add address=instagram.fteq3-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.ftgu3-3.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fthe12-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fthe8-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.ftpe13-2.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.ftse4-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.ftuc1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.ftul1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.ftzx1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fudi1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fudi1-2.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fudi5-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fudr2-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fuio1-2.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fuio4-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fuln9-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.funa1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fvag4-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fvcp6-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fvdc1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fver2-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fvix1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fvix8-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fvix9-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fvix9-2.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fvlc2-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fvno1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fyai2-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fybz2-2.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fymy1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fymy1-2.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fyto1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fyvr2-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fyxd1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fyyz1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=instagram.fzal1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=l.instagram.com list=Instagram_Hosts
+add address=live-upload.instagram.com list=Instagram_Hosts
+add address=lookaside.instagram.com list=Instagram_Hosts
+add address=maps.instagram.com list=Instagram_Hosts
+add address=platform.instagram.com list=Instagram_Hosts
+add address=scontent-ams4-1.cdninstagram.com list=Instagram_Hosts
+add address=scontent-amt2-1.cdninstagram.com list=Instagram_Hosts
+add address=scontent-arn2-1.cdninstagram.com list=Instagram_Hosts
+add address=scontent-arn2-2.cdninstagram.com list=Instagram_Hosts
+add address=scontent-atl3-1.cdninstagram.com list=Instagram_Hosts
+add address=scontent-atl3-2.cdninstagram.com list=Instagram_Hosts
+add address=scontent-bog1-1.cdninstagram.com list=Instagram_Hosts
+add address=scontent-bom1-1.cdninstagram.com list=Instagram_Hosts
+add address=scontent-bom1-2.cdninstagram.com list=Instagram_Hosts
+/ip firewall address-list
+add address=scontent-bos3-1.cdninstagram.com list=Instagram_Hosts
+add address=scontent-cph2-1.cdninstagram.com list=Instagram_Hosts
+add address=scontent-del1-1.cdninstagram.com list=Instagram_Hosts
+add address=scontent-dfw5-1.cdninstagram.com list=Instagram_Hosts
+add address=scontent-dfw5-2.cdninstagram.com list=Instagram_Hosts
+add address=scontent-eze1-1.cdninstagram.com list=Instagram_Hosts
+add address=scontent-for1-1.cdninstagram.com list=Instagram_Hosts
+add address=scontent-frt3-1.cdninstagram.com list=Instagram_Hosts
+add address=scontent-frx5-1.cdninstagram.com list=Instagram_Hosts
+add address=scontent-frx5-2.cdninstagram.com list=Instagram_Hosts
+add address=scontent-gig2-1.cdninstagram.com list=Instagram_Hosts
+add address=scontent-gru1-1.cdninstagram.com list=Instagram_Hosts
+add address=scontent-gru1-2.cdninstagram.com list=Instagram_Hosts
+add address=scontent-gru2-1.cdninstagram.com list=Instagram_Hosts
+add address=scontent-gru2-2.cdninstagram.com list=Instagram_Hosts
+add address=scontent-gua1-1.cdninstagram.com list=Instagram_Hosts
+add address=scontent-hel3-1.cdninstagram.com list=Instagram_Hosts
+add address=scontent-hou1-1.cdninstagram.com list=Instagram_Hosts
+add address=scontent-iad3-1.cdninstagram.com list=Instagram_Hosts
+add address=scontent-iad3-2.cdninstagram.com list=Instagram_Hosts
+add address=scontent-itm1-1.cdninstagram.com list=Instagram_Hosts
+add address=scontent-lax3-1.cdninstagram.com list=Instagram_Hosts
+add address=scontent-lax3-2.cdninstagram.com list=Instagram_Hosts
+add address=scontent-lga3-1.cdninstagram.com list=Instagram_Hosts
+add address=scontent-lga3-2.cdninstagram.com list=Instagram_Hosts
+add address=scontent-lhr8-1.cdninstagram.com list=Instagram_Hosts
+add address=scontent-lim1-1.cdninstagram.com list=Instagram_Hosts
+add address=scontent-los2-1.cdninstagram.com list=Instagram_Hosts
+add address=scontent-maa2-2.cdninstagram.com list=Instagram_Hosts
+add address=scontent-man2-1.cdninstagram.com list=Instagram_Hosts
+add address=scontent-mia3-1.cdninstagram.com list=Instagram_Hosts
+add address=scontent-mia3-2.cdninstagram.com list=Instagram_Hosts
+add address=scontent-mrs2-1.cdninstagram.com list=Instagram_Hosts
+add address=scontent-muc2-1.cdninstagram.com list=Instagram_Hosts
+add address=scontent-nrt1-1.cdninstagram.com list=Instagram_Hosts
+add address=scontent-ort2-1.cdninstagram.com list=Instagram_Hosts
+add address=scontent-ort2-2.cdninstagram.com list=Instagram_Hosts
+add address=scontent-qro1-1.cdninstagram.com list=Instagram_Hosts
+add address=scontent-qro1-2.cdninstagram.com list=Instagram_Hosts
+add address=scontent-scl2-1.cdninstagram.com list=Instagram_Hosts
+add address=scontent-sea1-1.cdninstagram.com list=Instagram_Hosts
+add address=scontent-sin6-4.cdninstagram.com list=Instagram_Hosts
+add address=scontent-sjc3-1.cdninstagram.com list=Instagram_Hosts
+add address=scontent-ssn1-1.cdninstagram.com list=Instagram_Hosts
+add address=scontent-tir2-1.cdninstagram.com list=Instagram_Hosts
+add address=scontent-yyz1-1.cdninstagram.com list=Instagram_Hosts
+add address=scontent.cdninstagram.com list=Instagram_Hosts
+add address=video-gig2-1.cdninstagram.com list=Instagram_Hosts
+add address=video-iad3-2.cdninstagram.com list=Instagram_Hosts
+add address=video.cdninstagram.com list=Instagram_Hosts
+/ip firewall address-list
+add address=www.instagram.com list=Instagram_Hosts
+add address=z-p3.www.instagram.com list=Instagram_Hosts
+add address=z-p4-instagram.fbaq1-1.fna.fbcdn.net list=Instagram_Hosts
+add address=z-p4-instagram.fbog11-1.fna.fbcdn.net list=Instagram_Hosts
+add address=z-p42-instagram.c10r.facebook.com list=Instagram_Hosts
+add address=z-p42-instagram.c10r.instagram.com list=Instagram_Hosts
+add address=z-p42.graph.instagram.com list=Instagram_Hosts
+
